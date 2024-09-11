@@ -1,0 +1,11 @@
+# ignore build files
+*.o
+*.res
+flight-and-fight
+flight-and-fight.exe
+# ignore high score table file
+hiscores
+# ignore settings file
+settings.impfile
+# ignore release folder
+release
